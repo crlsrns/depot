@@ -1,0 +1,1 @@
+This is a sample application for [*Agile Web Development with Rails, 4th ed.*]
